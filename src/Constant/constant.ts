@@ -1,0 +1,1 @@
+export const recipesUrl = "https://dummyjson.com/recipes?limit=10&skip=0"
